@@ -1,4 +1,4 @@
-# Alert Triage Workflow – MVP
+# Alert Triage Workflow 
 
 ## 🔗 Figma Wireframe & Prototype  
 https://www.figma.com/design/GoSYukJfvoakcgOmgTMPJM/Security-Alert-Dashboard?node-id=0-1&t=khqE8nJ5ICfp72Oo-1
