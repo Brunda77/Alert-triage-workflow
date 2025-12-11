@@ -10,4 +10,4 @@ https://www.figma.com/design/GoSYukJfvoakcgOmgTMPJM/Security-Alert-Dashboard?nod
 - Wireframe (Figma link)
 
 ## 📌 Description  
-This project contains the wireframes, problem statement, personas, workflow, MVP features, metrics, and developer action plan for a security alert triage concept.
+This project contains the wireframes, problem statement, personas, workflow, proposed features, metrics, and developer action plan for a security alert triage concept.
